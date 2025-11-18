@@ -35,8 +35,3 @@ I think  `autoRun_q.py` and `autoRun_q_imagenet.py` are quite easy to read and u
 ## Notes
 Feel free to contact me if any request exists. I am very likely to spare little time to response because I am really really busy and fully occupied with the mess of my new job.
 
-
-
-=======
-# To Be Uploaded Right After Code Refactoring
->>>>>>> origin/main
