@@ -1,0 +1,10 @@
+easydict==1.13
+ipython==8.12.3
+matplotlib==3.7.5
+mc==0.0
+numpy==1.24.4
+Pillow==11.0.0
+setuptools==68.2.2
+spikingjelly==0.0.0.0.14
+torch==2.0.1
+torchvision==0.15.2
