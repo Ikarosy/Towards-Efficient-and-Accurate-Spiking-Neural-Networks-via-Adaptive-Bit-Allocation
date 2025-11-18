@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # To Be Uploaded Right After Code Refactoring
 
 Seems like I do not have enough time for this project to reach a perfect open-source state. The whole codes are just too many. **For Now, Just Help Yourself**. 
