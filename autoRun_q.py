@@ -18,6 +18,9 @@ cifar100_res20_pretrained = './pretrained_cks/resnet20_cifar_data_aug_step2_seed
 # cifar10_res18_pretrained = '/mnt/lustre/GPU8/home/yaoxingting/codes/Ternary-Spike/pretrained_cks/ResNet18_cifar_data_aug_step2_seed3407_cifar10_bz128_ep200_using_relu_strict-checkpoint-000197.pth'
 # cifar100_res18_pretrained = '/mnt/lustre/GPU8/home/yaoxingting/codes/Ternary-Spike/pretrained_cks/ResNet18_cifar_data_aug_step2_seed3407_cifar100_bz128_ep200_using_relu_strict-checkpoint-000192.pth'
 
+# I leave this function here that models are able to be initialized to pretrained checkpoints
+# In practice, I find pre-loading pretrained checkpoints is not helpful in improving the accuracies of quantized models.
+# Just offering a play station. Play with my codes if you want.
 
 #exaple: nohup python -u autoRun_q.py > /dev/null 2>&1 &
 if __name__ == "__main__":
